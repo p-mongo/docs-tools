@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 REQUIRES = [
     'argh',
     'docutils',
-    'hieroglyph',
+    'hieroglyph==1.0',
     'jinja2',
     'onetimepass',
     'polib',
